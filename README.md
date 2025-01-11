@@ -1,8 +1,3 @@
-# React + Vite
+<h1>Personal Password Manager Web App</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<p>This is an personal password manager created using vite react and mongodb database. There is another version of this without mongodb, it has localstorage saving facility. If you have any other idea then pull me a request</p>
